@@ -107,7 +107,7 @@ fun ProfileScreen() {
                 modifier = Modifier
                     .padding(top = 20.dp, start = 15.dp)
                     .clip(CircleShape)
-                    .size(96.dp)
+                    .size(95.dp)
                     .border(BorderStroke
                         (width = 5.dp, color = Color.Gray)
                         , shape = CircleShape)
@@ -133,14 +133,8 @@ fun ProfileScreen() {
             }
 
 
-
-
-
-
-
-            
         }
-        
+
     }
 
 }
